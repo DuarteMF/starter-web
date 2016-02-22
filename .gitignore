@@ -1,3 +1,4 @@
 specific_file.txt
 *.log
 log/
+*.orig
